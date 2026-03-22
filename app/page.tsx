@@ -1,8 +1,8 @@
-export default function Home() {
+export default function DebugPage() {
   return (
     <div style={{ padding: 40 }}>
-      <h1>🔥 Nexa OS Dashboard</h1>
-      <p>Main system is live.</p>
+      <h1>🚀 Debug Page Working</h1>
+      <p>System monitoring is ACTIVE.</p>
     </div>
   );
 }
